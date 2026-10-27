@@ -14,7 +14,7 @@
 ## Pengujian GET dan POST
 
 - Hasil pengujian GET: [data berhasil terkirim menggunakan method get]
-- Contoh URL encoding yang ditemukan: [https://2611500073-art.github.io/2611500073-PWD-TI1J-26270/pertemuan-03/index.html?nama=Rafli&email=rafli%40gmail.com&semester=1&tanggal=2026-10-01&jenis_pesan=saran&minat=HTML&minat=CSS&prodi=TI&pesan=hai]
+- Contoh URL encoding yang ditemukan: [https://2611500073-art.github.io/2611500073-PWD-TI1J-26270/pertemuan-03/index.html?nama=Rafli&email=selsen%40gmail.com&semester=1&tanggal=2026-10-01&jenis_pesan=saran&minat=HTML&minat=CSS&prodi=TI&pesan=hai]
 - Hasil pengujian POST: [jika method diubah maka data tidak akan tampil pada url]
 
 ## CSS Dasar
